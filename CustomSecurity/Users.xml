@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<users> 
+	<user name="admin" id="1" role="admin" />
+	<user name="manager" id="2" role="manager" />
+	<user name="student1" id="3" role="operator" />
+	<user name="student2" id="4" role="operator" />
+	<user name="student3" id="5" role="operator" />
+</users>

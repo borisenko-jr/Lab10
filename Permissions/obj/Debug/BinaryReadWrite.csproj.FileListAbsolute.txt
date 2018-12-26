@@ -1,0 +1,6 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_10\Permissions\bin\Debug\BinaryReadWrite.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\Permissions\bin\Debug\BinaryReadWrite.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_10\Permissions\obj\Debug\BinaryReadWrite.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\Permissions\obj\Debug\BinaryReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\Permissions\obj\Debug\BinaryReadWrite.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\Permissions\obj\Debug\BinaryReadWrite.pdb

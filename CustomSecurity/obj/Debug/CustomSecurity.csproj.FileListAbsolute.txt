@@ -1,0 +1,10 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\bin\Debug\CustomSecurity.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\bin\Debug\CustomSecurity.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.EditUserForm.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.LogInForm.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.MainForm.resources
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.csproj.GenerateResource.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\CustomSecurity\obj\Debug\CustomSecurity.pdb

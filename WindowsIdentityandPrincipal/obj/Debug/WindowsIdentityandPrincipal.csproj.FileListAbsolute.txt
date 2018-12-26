@@ -1,0 +1,6 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_10\WindowsIdentityandPrincipal\bin\Debug\WindosIdentityandPrincipal.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\WindowsIdentityandPrincipal\bin\Debug\WindosIdentityandPrincipal.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_10\WindowsIdentityandPrincipal\obj\Debug\WindowsIdentityandPrincipal.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\WindowsIdentityandPrincipal\obj\Debug\WindowsIdentityandPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\WindowsIdentityandPrincipal\obj\Debug\WindosIdentityandPrincipal.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\WindowsIdentityandPrincipal\obj\Debug\WindosIdentityandPrincipal.pdb

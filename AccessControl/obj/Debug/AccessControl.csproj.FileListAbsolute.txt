@@ -1,0 +1,6 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_10\AccessControl\bin\Debug\AccessControl.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\AccessControl\bin\Debug\AccessControl.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_10\AccessControl\obj\Debug\AccessControl.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\AccessControl\obj\Debug\AccessControl.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\AccessControl\obj\Debug\AccessControl.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\AccessControl\obj\Debug\AccessControl.pdb
